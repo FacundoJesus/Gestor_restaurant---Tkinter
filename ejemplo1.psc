@@ -14,6 +14,7 @@ Proceso Ejercicio1
 	Si promedio>=notaCondicion entonces
 		condicion<- 'Promocionado';
 	FinSi
-	Escribir 'El promedio es: ', promedio;
-	Escribir 'La condición es: ', condicion;
+	Escribir 'El promedio es: ...', promedio;
+	Escribir 'La condición es: ...', condicion;
+	Escribir "Este es otro cambio";
 FinProceso
